@@ -13,7 +13,7 @@ This PowerShell script downloads the iShares Bitcoin Trust ETF fund data from th
 ## Prerequisites
 
 - **Windows PowerShell 5.1 or PowerShell Core 6.0+**
-- **Microsoft Excel** (for XLS to XLSX conversion)
+- **Microsoft Excel** (for XML to XLSX conversion)
 - Internet connection
 
 ## Usage
