@@ -1,11 +1,11 @@
 # iShares Bitcoin Trust ETF Data Downloader
 
-This PowerShell script downloads the iShares Bitcoin Trust ETF fund data from the official iShares website and converts it from XLS format to XLSX format.
+This PowerShell script downloads the iShares Bitcoin Trust ETF fund data from the official iShares website and converts it from XML format to XLSX format.
 
 ## Features
 
 - Downloads fund data directly from iShares.com
-- Converts XLS format to modern XLSX format
+- Converts XML format to modern XLSX format
 - Colored console output for better user experience
 - Error handling and cleanup
 - Optional parameters for customization
